@@ -1,0 +1,3 @@
+[submodule "ProductMicroservice"]
+	path = ProductMicroservice
+	url = https://github.com/froleod/ProductMicroservice.git
